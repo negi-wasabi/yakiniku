@@ -65,7 +65,7 @@ header {
 
 /* 画像 */
 .shop img {
-  float: right;/* 画像や箱の回り込み */
+  clear: right;/* 画像や箱の回り込み */
 }
 
 
